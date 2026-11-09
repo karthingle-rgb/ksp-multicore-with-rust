@@ -1,0 +1,12 @@
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\UnityEngine\bin\Release\net472\UnityEngine.dll
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\UnityEngine\bin\Release\net472\UnityEngine.pdb
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\UnityEngine\bin\Release\net472\UnityEngine.CoreModule.dll
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\UnityEngine\bin\Release\net472\UnityEngine.CoreModule.pdb
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\UnityEngine\obj\Release\net472\UnityEngine.csproj.AssemblyReference.cache
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\UnityEngine\obj\Release\net472\UnityEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\UnityEngine\obj\Release\net472\UnityEngine.AssemblyInfoInputs.cache
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\UnityEngine\obj\Release\net472\UnityEngine.AssemblyInfo.cs
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\UnityEngine\obj\Release\net472\UnityEngine.csproj.CoreCompileInputs.cache
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\UnityEngine\obj\Release\net472\UnityEng.8209C44B.Up2Date
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\UnityEngine\obj\Release\net472\UnityEngine.dll
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\UnityEngine\obj\Release\net472\UnityEngine.pdb

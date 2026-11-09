@@ -1,0 +1,12 @@
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\BepInEx\obj\Release\net472\BepInEx.csproj.AssemblyReference.cache
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\BepInEx\obj\Release\net472\BepInEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\BepInEx\obj\Release\net472\BepInEx.AssemblyInfoInputs.cache
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\BepInEx\obj\Release\net472\BepInEx.AssemblyInfo.cs
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\BepInEx\obj\Release\net472\BepInEx.csproj.CoreCompileInputs.cache
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\BepInEx\bin\Release\net472\BepInEx.dll
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\BepInEx\bin\Release\net472\BepInEx.pdb
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\BepInEx\bin\Release\net472\UnityEngine.CoreModule.dll
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\BepInEx\bin\Release\net472\UnityEngine.CoreModule.pdb
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\BepInEx\obj\Release\net472\BepInEx.csproj.Up2Date
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\BepInEx\obj\Release\net472\BepInEx.dll
+C:\Users\krusader\AppData\Local\Cline\ksp_physics_bridge\csharp_mod\stubs\BepInEx\obj\Release\net472\BepInEx.pdb

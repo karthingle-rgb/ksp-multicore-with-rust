@@ -1,0 +1,89 @@
+{
+  "version": 4,
+  "targets": {
+    "net472": {
+      "UnityEngine.CoreModule/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/UnityEngine.CoreModule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.CoreModule.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnityEngine.CoreModule/1.0.0": {
+      "type": "project",
+      "path": "../UnityEngine.CoreModule/UnityEngine.CoreModule.csproj",
+      "msbuildProject": "../UnityEngine.CoreModule/UnityEngine.CoreModule.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net472": [
+      "UnityEngine.CoreModule >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\krusader\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\krusader\\AppData\\Local\\Cline\\ksp_physics_bridge\\csharp_mod\\stubs\\BepInEx\\BepInEx.csproj",
+      "projectName": "BepInEx",
+      "projectPath": "C:\\Users\\krusader\\AppData\\Local\\Cline\\ksp_physics_bridge\\csharp_mod\\stubs\\BepInEx\\BepInEx.csproj",
+      "packagesPath": "C:\\Users\\krusader\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\krusader\\AppData\\Local\\Cline\\ksp_physics_bridge\\csharp_mod\\stubs\\BepInEx\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\krusader\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "projectReferences": {
+            "C:\\Users\\krusader\\AppData\\Local\\Cline\\ksp_physics_bridge\\csharp_mod\\stubs\\UnityEngine.CoreModule\\UnityEngine.CoreModule.csproj": {
+              "projectPath": "C:\\Users\\krusader\\AppData\\Local\\Cline\\ksp_physics_bridge\\csharp_mod\\stubs\\UnityEngine.CoreModule\\UnityEngine.CoreModule.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net472": {
+        "framework": "net472",
+        "targetAlias": "net472",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
